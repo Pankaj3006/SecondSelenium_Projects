@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/" kind="src" path=""/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/POI_JArs/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Commons.io/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Commons.io/commons-io-2.8.0/commons-io-2.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Commons.io/commons-io-2.8.0/commons-io-2.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Commons.io/commons-io-2.8.0/commons-io-2.8.0-tests.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Commons.io/commons-io-2.8.0/commons-io-2.8.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/Selenium_Standalone_jar/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/MySql Connector Java/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="E:/DRIVER/Jars/MySql Connector Java/protobuf-java-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
